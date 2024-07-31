@@ -1,0 +1,62 @@
+{
+    "c2array": true,
+    "size": [
+        2,
+        6,
+        2
+    ],
+    "data": [
+        [
+            [
+                "stella",
+                "stella"
+            ],
+            [
+                "You must defeat this fist to stand a chance.",
+                "I can't believe we both lost..."
+            ],
+            [
+                "Who taught you to block$with your face?",
+                "Looks like we both need practice..."
+            ],
+            [
+                "I can't keep beating$you up like this.",
+                "Let's just say we're both winners."
+            ],
+            [
+                "Call an ambulance!$But not for me!",
+                "We need to settle this soon!"
+            ],
+            [
+                "You call that a fight?",
+                "Hope we get a fight of the night bonus!"
+            ]
+        ],
+        [
+            [
+                "sky",
+                "sky"
+            ],
+            [
+                "Go home and be with your family!",
+                "What are the chances?"
+            ],
+            [
+                "I haven't even started yet!",
+                "Back to the drawing board..."
+            ],
+            [
+                "I hope your coach didn't bet on you.",
+                "Let's run this again!"
+            ],
+            [
+                "You can never win against me.",
+                "There will be a winner next time!"
+            ],
+            [
+                "Stupid people can believe in anything, so you can believe in yourself",
+                "I didn't come all this way for a draw..."
+            ]
+        ]
+    ]
+}
